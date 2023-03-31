@@ -1,5 +1,9 @@
-Win32/Debug/Main.dcu
-Win32/Debug/ExCalc.exe
-Win32/Debug/Expression.dcu
-Main.vlb
-ExCalc.dproj.local
+# Win32/Debug/Main.dcu
+# Win32/Debug/ExCalc.exe
+# Win32/Debug/Expression.dcu
+*.vlb
+*.local
+Win32/*
+*.dcu
+*.exe
+*.identcache
